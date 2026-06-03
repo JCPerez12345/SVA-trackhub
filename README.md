@@ -31,7 +31,7 @@ My Data -> Track Hubs -> My Hubs
 
 and provide the following URL:
 
-`https://raw.githubusercontent.com/JCPerez/SVA-trackhub/blob/main/hub.txt`
+`https://raw.githubusercontent.com/JCPerez/SVA-trackhub/main/hub.txt`
 into here:
 
 http://genome.ucsc.edu/cgi-bin/hgHubConnect#unlistedHubs
