@@ -1,0 +1,6 @@
+track SVA
+bigDataUrl hg38.sva.bb
+shortLabel SVA
+longLabel SVA annotations from updated Dfam RepeatMasker release
+type bigBed 6
+visibility pack

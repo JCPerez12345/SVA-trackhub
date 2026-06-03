@@ -1,0 +1,6 @@
+hub SVA
+shortLabel SVA
+longLabel SVA annotations from updated Dfam release
+genomesFile genomes.txt
+email 5658806940@utac.u-tokyo.ac.jp
+
