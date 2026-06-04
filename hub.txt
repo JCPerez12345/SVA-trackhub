@@ -1,6 +1,6 @@
 hub SVA
 shortLabel SVA
-longLabel SVA annotations from updated Dfam release
+longLabel SVA annotations RepeatMaskerv4.2.1 Dfam_3.9
 genomesFile genomes.txt
 email 5658806940@utac.u-tokyo.ac.jp
 
