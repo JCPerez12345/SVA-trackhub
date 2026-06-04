@@ -1,7 +1,7 @@
 # **Dfam SVA Track Hub (hg38)**
 ## Overview
 
-This repository provides a UCSC Genome Browser Track Hub containing annotations of SINE-VNTR-Alu (SVA) retrotransposons extracted from an updated Dfam RepeatMasker annotation of the human reference genome (hg38).
+This repository provides a UCSC Genome Browser Track Hub containing annotations of SINE-VNTR-Alu (SVA) retrotransposons extracted from an updated Dfam-3.9 RepeatMaskerv4.2.1 annotation of the human reference genome (hg38).
 
 The purpose of this project is to facilitate visualization and exploration of SVA elements in the human genome and to compare updated Dfam annotations with the RepeatMasker track currently available in the UCSC Genome Browser.
 
