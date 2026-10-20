@@ -4,3 +4,10 @@ shortLabel SVA
 longLabel SVA annotations RepeatMaskerv4.2.1 Dfam_3.9
 type bigBed 6
 visibility pack
+
+track human2lemur
+shortLabel Human-Lemur
+longLabel Human hg38 and Lemur Pairwise Alignment near the CCDC137 gene
+type bigPsl
+bigDataURL lemur2human_CCDC137.bigPsl.bb
+visibility pack
